@@ -1,9 +1,7 @@
 //Write a code to generate the Fibonacci sequence until a user specified limit.
 import java.util.Scanner;
 public class fibonacci{
-    /**
-     * @param args
-     */
+    
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
